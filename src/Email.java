@@ -1,5 +1,3 @@
-import java.nio.charset.Charset;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Email {
@@ -11,7 +9,7 @@ public class Email {
     private int mailboxCapacity = 500;
     private final String companyName = "homebox.dev";
     private int passwordLength = 12;
-    private String alterPassword;
+    private String alterEmail;
 
     public Email(String firstName, String lastName) {
 
@@ -64,12 +62,12 @@ public class Email {
         this.mailboxCapacity = mailboxCapacity;
     }
 
-    public String getAlterPassword() {
-        return alterPassword;
+    public String getAlterEmail() {
+        return alterEmail;
     }
 
-    public void setAlterPassword(String alterPassword) {
-        this.alterPassword = alterPassword;
+    public void setAlterEmail(String alterEmail) {
+        this.alterEmail = alterEmail;
     }
 
     public String showInfo() {
