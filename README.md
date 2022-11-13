@@ -1,6 +1,6 @@
 # Email Application
 
-## Solution for educational project from Tim Short course [Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/) on Udemy
+## Solution for educational project from [Tim Short](https://www.udemy.com/user/tim-short/) course [Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/) on Udemy
 
 ### Scenario:
 ### You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires
